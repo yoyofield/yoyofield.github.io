@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://windofinsights.com/CS/Website/hexo-shoka-deployment-and-optimization/</loc>
+    <loc>https://windofinsights.com/AI/Sora/how-to-activate-sora/</loc>
     
-    <lastmod>2024-02-11</lastmod>
+    <lastmod>2024-02-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -12,6 +12,15 @@
   
   <url>
     <loc>https://windofinsights.com/AI/ChatGPT/2024-fatest-way-to-upgrade-chatgpt-plus-in-china/</loc>
+    
+    <lastmod>2024-02-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://windofinsights.com/CS/Website/hexo-shoka-deployment-and-optimization/</loc>
     
     <lastmod>2024-02-11</lastmod>
     
@@ -31,7 +40,7 @@
 
   <url>
     <loc>https://windofinsights.com/</loc>
-    <lastmod>2024-02-11</lastmod>
+    <lastmod>2024-02-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -41,35 +50,42 @@
   
   <url>
     <loc>https://windofinsights.com/categories/AI/</loc>
-    <lastmod>2024-02-11</lastmod>
+    <lastmod>2024-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://windofinsights.com/categories/CS/</loc>
-    <lastmod>2024-02-11</lastmod>
+    <lastmod>2024-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://windofinsights.com/categories/AI/ChatGPT/</loc>
-    <lastmod>2024-02-11</lastmod>
+    <lastmod>2024-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://windofinsights.com/categories/AI/Sora/</loc>
+    <lastmod>2024-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://windofinsights.com/categories/AI/StableDiffusion/</loc>
-    <lastmod>2024-02-11</lastmod>
+    <lastmod>2024-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://windofinsights.com/categories/CS/Website/</loc>
-    <lastmod>2024-02-11</lastmod>
+    <lastmod>2024-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
