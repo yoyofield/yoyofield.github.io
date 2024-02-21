@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://windofinsights.com/about/</loc>
-    
-    <lastmod>2024-02-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://windofinsights.com/Web3/my-web3-updates/</loc>
     
     <lastmod>2024-02-20</lastmod>
@@ -95,6 +86,13 @@
   </url>
   
   <url>
+    <loc>https://windofinsights.com/categories/CS/Website/</loc>
+    <lastmod>2024-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://windofinsights.com/categories/AI/Sora/</loc>
     <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -103,13 +101,6 @@
   
   <url>
     <loc>https://windofinsights.com/categories/AI/StableDiffusion/</loc>
-    <lastmod>2024-02-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://windofinsights.com/categories/CS/Website/</loc>
     <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
