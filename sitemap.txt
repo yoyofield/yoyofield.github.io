@@ -12,5 +12,5 @@ https://windofinsights.com/categories/AI/
 https://windofinsights.com/categories/CS/
 https://windofinsights.com/categories/AI/ChatGPT/
 https://windofinsights.com/categories/AI/Sora/
-https://windofinsights.com/categories/CS/Website/
 https://windofinsights.com/categories/AI/StableDiffusion/
+https://windofinsights.com/categories/CS/Website/
